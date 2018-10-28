@@ -22,16 +22,6 @@ If you do not have Node >= 6.x installed, you can download it here: [Node.js](ht
 * Start the development server with `npm start`
 * Open the browser at `localhost:3000`
 
-## Tech Stack
-
-* [React](https://reactjs.org/) - The web framework used
-* [Redux](https://redux.js.org/) - The state management library used
-* [React Router](https://github.com/ReactTraining/react-router) - The routing library used
-
-## License
-
-This project is licensed under the terms of the MIT license.
-
 ## Built With
 
 * [React](https://reactjs.org/) - The web framework used
