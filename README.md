@@ -28,7 +28,16 @@ If you do not have Node >= 6.x installed, you can download it here: [Node.js](ht
 * [Redux](https://redux.js.org/) - The state management library used
 * [React Router](https://github.com/ReactTraining/react-router) - The routing library used
 
+## Authors
+
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Would you rather](https://github.com/thepembeweb/would-you-rather)
+
 ## License
 
-MIT  © [Pemberai Sweto](https://github.com/thepembeweb)
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- Copyright 2018 © [Pemberai Sweto](https://github.com/thepembeweb).
+
+
 
